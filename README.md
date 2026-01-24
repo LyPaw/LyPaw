@@ -42,7 +42,7 @@
   <img alt="pacman contribution graph" 
        src="https://raw.githubusercontent.com/LyPaw/LyPaw/output/pacman-contribution-graph.svg"
        width="auto"
-       height="250">
+       height="200">
 </picture>
 </div>
 
