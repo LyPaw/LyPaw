@@ -64,6 +64,7 @@
 [![POO](https://img.shields.io/badge/Repo-POO-green?style=for-the-badge)](https://github.com/LyPaw/POO-Java)
 
 # Proyect
+<!--[![Robot](https://raw.githubusercontent.com/CodeDiegoF/Juego_Robot/main/robot.png)](https://github.com/CodeDiegoF/Juego_Robot)-->
 
 # 📊 GitHub Stats:
 
