@@ -69,7 +69,11 @@
 
 
 ## 🏆 GitHub Trophies
-![100 Commits](https://img.shields.io/badge/100%20Commits-🏆-brightgreen)
+![50 Commits](https://img.shields.io/badge/50%20Commits-🏆-brightgreen)
+![150 Commits](https://img.shields.io/badge/150%20Commits-🏆-brightgreen)
+![50 Contributions](https://img.shields.io/badge/50%20Contributions-🏆-blue)
+![150 Contributions](https://img.shields.io/badge/150%20Contributions-🏆-blue)
+
 
 
 
