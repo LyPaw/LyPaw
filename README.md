@@ -59,7 +59,6 @@
 
 
 # Repos
-[![Java](https://img.shields.io/badge/Repo-Java-blue?style=for-the-badge)](https://github.com/LyPaw/Apuntes_Java)
 [![BD](https://img.shields.io/badge/Repo-BD-red?style=for-the-badge)](https://github.com/LyPaw/Base_De_Datos)
 [![POO](https://img.shields.io/badge/Repo-POO-green?style=for-the-badge)](https://github.com/LyPaw/POO-Java)
 
@@ -70,16 +69,67 @@
       <a href="https://github.com/CodeDiegoF/Juego_Robot">
         <img 
           src="https://raw.githubusercontent.com/CodeDiegoF/Juego_Robot/main/robotMatriz/robot.png" 
-          width="220";"
+          width="220"
         />
       </a>
-      <strong><h1>Robot C++</h1</strong><br>
+      <br>
+      <strong><h2 style="color:white; margin:8px 0 0 0;">Robot C++</h2></strong>
     </td>
+   <!-- <td align="center" style="padding:16px; border:1px solid #30363d; border-radius:16px;">
+      <a href="https://github.com/CodeDiegoF/Juego_Robot">
+        <img 
+          src="https://raw.githubusercontent.com/CodeDiegoF/Juego_Robot/main/robotMatriz/robot.png" 
+          width="220"
+        />
+      </a>
+      <br>
+      <strong><h2 style="color:white; margin:8px 0 0 0;">Robot C++</h2></strong>
+    </td>
+        <td align="center" style="padding:16px; border:1px solid #30363d; border-radius:16px;">
+      <a href="https://github.com/CodeDiegoF/Juego_Robot">
+        <img 
+          src="https://raw.githubusercontent.com/CodeDiegoF/Juego_Robot/main/robotMatriz/robot.png" 
+          width="220"
+        />
+      </a>
+      <br>
+      <strong><h2 style="color:white; margin:8px 0 0 0;">Robot C++</h2></strong>
+    </td>
+        <td align="center" style="padding:16px; border:1px solid #30363d; border-radius:16px;">
+      <a href="https://github.com/CodeDiegoF/Juego_Robot">
+        <img 
+          src="https://raw.githubusercontent.com/CodeDiegoF/Juego_Robot/main/robotMatriz/robot.png" 
+          width="220"
+        />
+      </a>
+      <br>
+      <strong><h2 style="color:white; margin:8px 0 0 0;">Robot C++</h2></strong>
+    </td>
+        <td align="center" style="padding:16px; border:1px solid #30363d; border-radius:16px;">
+      <a href="https://github.com/CodeDiegoF/Juego_Robot">
+        <img 
+          src="https://raw.githubusercontent.com/CodeDiegoF/Juego_Robot/main/robotMatriz/robot.png" 
+          width="220"
+        />
+      </a>
+      <br>
+      <strong><h2 style="color:white; margin:8px 0 0 0;">Robot C++</h2></strong>
+    </td>
+        <td align="center" style="padding:16px; border:1px solid #30363d; border-radius:16px;">
+      <a href="https://github.com/CodeDiegoF/Juego_Robot">
+        <img 
+          src="https://raw.githubusercontent.com/CodeDiegoF/Juego_Robot/main/robotMatriz/robot.png" 
+          width="220"
+        />
+      </a>
+      <br>
+      <strong><h2 style="color:white; margin:8px 0 0 0;">Robot C++</h2></strong>
+    </td>-->
   </tr>
 </table>
 
 
-
+<div align="center">
 
 # 📊 GitHub Stats:
 
@@ -91,6 +141,7 @@
 
 <!-- Top Languages -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LyPaw&layout=compact&hide_border=false&include_all_commits=true&count_private=true&bg_color=0D1117&text_color=FFFFFF&title_color=1E90FF&icon_color=1E90FF$v=1)
+</div>
 
 
 ## 🏆 GitHub Trophies
