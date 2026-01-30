@@ -78,12 +78,12 @@
    <td align="center" style="padding:16px; border:1px solid #30363d; border-radius:16px;">
       <a 
         <img 
-          src="https://raw.githubusercontent.com/LyPaw/Mapa_Visual_Qwen/main/logo/robot.png" 
+          src="https://raw.githubusercontent.com/LyPaw/Mapa_Visual_Qwen/main/Logo/logo.svg" 
           width="220"
         />
       </a>
       <br>
-      <strong><h2 style="color:white; margin:8px 0 0 0;">RViMap</h2></strong>
+      <strong><h2 style="color:white; margin:8px 0 0 0;">ViMap</h2></strong>
     </td><!-- 
         <td align="center" style="padding:16px; border:1px solid #30363d; border-radius:16px;">
       <a href="https://github.com/CodeDiegoF/Juego_Robot">
