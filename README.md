@@ -75,16 +75,16 @@
       <br>
       <strong><h2 style="color:white; margin:8px 0 0 0;">Robot C++</h2></strong>
     </td>
-   <!-- <td align="center" style="padding:16px; border:1px solid #30363d; border-radius:16px;">
-      <a href="https://github.com/CodeDiegoF/Juego_Robot">
+   <td align="center" style="padding:16px; border:1px solid #30363d; border-radius:16px;">
+      <a 
         <img 
-          src="https://raw.githubusercontent.com/CodeDiegoF/Juego_Robot/main/robotMatriz/robot.png" 
+          src="https://raw.githubusercontent.com/LyPaw/Mapa_Visual_Qwen/main/logo/robot.png" 
           width="220"
         />
       </a>
       <br>
-      <strong><h2 style="color:white; margin:8px 0 0 0;">Robot C++</h2></strong>
-    </td>
+      <strong><h2 style="color:white; margin:8px 0 0 0;">RViMap</h2></strong>
+    </td><!-- 
         <td align="center" style="padding:16px; border:1px solid #30363d; border-radius:16px;">
       <a href="https://github.com/CodeDiegoF/Juego_Robot">
         <img 
