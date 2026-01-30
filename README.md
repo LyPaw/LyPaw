@@ -75,14 +75,14 @@
       <br>
       <strong><h2 style="color:white; margin:8px 0 0 0;">Robot C++</h2></strong>
      <td align="center" style="padding:16px; border:1px solid #30363d; border-radius:16px;">
-      <a href="https://github.com/LyPaw/Mapa_Visual_Qween">
+      <a href="https://github.com/LyPaw/Mapa_Visual_Qwen">
         <img 
-          src="https://raw.githubusercontent.com/LyPaw/Mapa_Visual_Qween/main/Logo/logo.svg" 
+          src="https://raw.githubusercontent.com/LyPaw/Mapa_Visual_Qwen/main/Logo/logo.svg" 
           width="220"
         />
       </a>
       <br>
-      <strong><h2 style="color:white; margin:8px 0 0 0;">Robot C++</h2></strong>
+      <strong><h2 style="color:white; margin:8px 0 0 0;">ViMap</h2></strong>
     </td>
     <!-- 
         <td align="center" style="padding:16px; border:1px solid #30363d; border-radius:16px;">
