@@ -78,7 +78,7 @@
      <td align="center" style="padding:16px; border:1px solid #30363d; border-radius:16px;">
       <a href="https://lypaw.github.io/ViMap/">
         <img 
-          src="https://raw.githubusercontent.com/LyPaw/Mapa_Visual_Qwen/main/Logo/logo.svg" 
+          src="https://raw.githubusercontent.com/LyPaw/Mapa_Visual_Qwen/main/Logo/logo.png" 
           width="220"
         />
       </a>
