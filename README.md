@@ -76,15 +76,15 @@
       <strong><h2 style="color:white; margin:8px 0 0 0;">Robot C++</h2></strong>
       <h3>En Proceso</h3>
      <td align="center" style="padding:16px; border:1px solid #30363d; border-radius:16px;">
-      <a href="https://lypaw.github.io/ViMap/" ; target:"_blank">
+      <a href="https://lypaw.github.io/ViMap/" target="_blank">
         <img 
           src="https://raw.githubusercontent.com/LyPaw/Mapa_Visual_Qwen/main/Logo/logo.png" 
           width="220"
         />
       </a>
-      <strong><h2 style="color:white; margin:8px 0 0 0;">ViMap</h2></strong>
-       <h3>En Proceso</h3>
-    </td>
+    <strong><h2 style="color:white; margin:8px 0 0 0;">ViMap</h2></strong>
+    <h3>En Proceso</h3>
+</td>
     <!-- 
         <td align="center" style="padding:16px; border:1px solid #30363d; border-radius:16px;">
       <a href="https://github.com/CodeDiegoF/Juego_Robot">
