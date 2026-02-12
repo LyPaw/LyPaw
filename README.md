@@ -151,8 +151,8 @@
 ![150 Commits](https://img.shields.io/badge/150%20Commits-🏆-brightgreen)
 ![50 Contributions](https://img.shields.io/badge/50%20Contributions-🏆-blue)
 ![150 Contributions](https://img.shields.io/badge/150%20Contributions-🏆-blue)
-![200 Contributions](https://img.shields.io/badge/150%20Contributions-🏆-blue)
-![300 Contributions](https://img.shields.io/badge/150%20Contributions-🏆-blue)
+![200 Contributions](https://img.shields.io/badge/200%20Contributions-🏆-blue)
+![300 Contributions](https://img.shields.io/badge/300%20Contributions-🏆-blue)
 
 
 
