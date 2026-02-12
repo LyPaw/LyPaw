@@ -135,14 +135,14 @@
 # 📊 GitHub Stats:
 
 <!-- GitHub stats -->
-![](https://github-readme-stats.vercel.app/api?username=LyPaw&hide_border=false&count_private=true&bg_color=0D1117&text_color=FFFFFF&title_color=1E90FF&icon_color=1E90FF$v=1)<br/>
+![](https://github-readme-stats.vercel.app/api?username=LyPaw&hide_border=false&count_private=true&bg_color=0D1117&text_color=FFFFFF&title_color=1E90FF&icon_color=1E90FF&v=1)
 
 <!-- Streak stats -->
-![](https://nirzak-streak-stats.vercel.app/?user=LyPaw&hide_border=false&theme=dark&bg_color=0D1117&text_color=FFFFFF&fire_color=1E90FF)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=LyPaw&hide_border=false&theme=dark&bg_color=0D1117&text_color=FFFFFF&fire_color=1E90FF)
 
 <!-- Top Languages -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LyPaw&layout=compact&hide_border=false&include_all_commits=true&count_private=true&bg_color=0D1117&text_color=FFFFFF&title_color=1E90FF&icon_color=1E90FF$v=1)
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LyPaw&layout=compact&hide_border=false&include_all_commits=true&count_private=true&bg_color=0D1117&text_color=FFFFFF&title_color=1E90FF&icon_color=1E90FF&v=1)
+
 
 
 ## 🏆 GitHub Trophies
