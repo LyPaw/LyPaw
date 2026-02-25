@@ -63,19 +63,20 @@
 [![POO](https://img.shields.io/badge/Repo-POO-green?style=for-the-badge)](https://github.com/LyPaw/POO-Java)
 
 # Proyect
-<table width="100%" align="center">
-<tr>
-  <td width="50%" valign="top">
 
-<div align="center">
+<table width="100%" align="center" cellpadding="0" cellspacing="0">
+<tr>
+  <td width="50%" align="center" valign="top">
+
+<br>
 
 ### Robot C++
 
 <a href="https://github.com/CodeDiegoF/Juego_Robot">
-  <img src="https://raw.githubusercontent.com/CodeDiegoF/Juego_Robot/main/robotMatriz/robot.png" width="260" style="border-radius:12px;" alt="Robot C++"/>
+  <img src="https://raw.githubusercontent.com/CodeDiegoF/Juego_Robot/main/robotMatriz/robot (2).png" width="200" alt="Robot C++"/>
 </a>
 
-<br><br>
+<br>
 
 ![Status](https://img.shields.io/badge/Estado-En%20Proceso-orange?style=for-the-badge&logo=github)
 ![Language](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -83,16 +84,14 @@
 **Juego desarrollado en C++ con navegación matricial.**  
 Un robot que recorre un mapa mediante estructuras de datos y lógica de movimiento.
 
-<br>
-
 [![Ver Repositorio](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeDiegoF/Juego_Robot)
 
-</div>
+<br>
 
   </td>
-  <td width="50%" valign="top">
+  <td width="50%" align="center" valign="top">
 
-<div align="center">
+<br>
 
 ### ViMap
 
@@ -100,7 +99,7 @@ Un robot que recorre un mapa mediante estructuras de datos y lógica de movimien
   <img src="https://raw.githubusercontent.com/LyPaw/Mapa_Visual_Qwen/main/Logo/logo.png" width="200" alt="ViMap"/>
 </a>
 
-<br><br>
+<br>
 
 ![Status](https://img.shields.io/badge/Estado-En%20Proceso-orange?style=for-the-badge&logo=github)
 ![Web](https://img.shields.io/badge/Web-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white)
@@ -108,16 +107,15 @@ Un robot que recorre un mapa mediante estructuras de datos y lógica de movimien
 **Visualizador de mapas interactivo.**  
 Herramienta web para explorar y representar datos geoespaciales de forma visual e intuitiva.
 
-<br>
-
 [![Ver Web](https://img.shields.io/badge/Ver%20Web-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://lypaw.github.io/ViMap/)
 
-</div>
+<br>
 
   </td>
 </tr>
 </table>
-    <!-- 
+
+<!-- 
         <td align="center" style="padding:16px; border:1px solid #30363d; border-radius:16px;">
       <a href="https://github.com/CodeDiegoF/Juego_Robot">
         <img 
