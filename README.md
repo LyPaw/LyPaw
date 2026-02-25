@@ -71,11 +71,14 @@
 <br>
 
 ### Robot C++
+<br>
+
 
 <a href="https://github.com/CodeDiegoF/Juego_Robot">
   <img src="https://raw.githubusercontent.com/CodeDiegoF/Juego_Robot/main/robotMatriz/robot (2).png" width="200" alt="Robot C++"/>
 </a>
 
+<br>
 <br>
 
 ![Status](https://img.shields.io/badge/Estado-En%20Proceso-orange?style=for-the-badge&logo=github)
