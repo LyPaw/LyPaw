@@ -108,7 +108,7 @@ Un robot que recorre un mapa mediante estructuras de datos y lógica de movimien
 ![Web](https://img.shields.io/badge/Web-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white)
 
 **Web de Estudio**
-Web centrada en lenguajes como Java,SQL,HTML y CSS, teoría y práctica.
+centrada en lenguajes como Java,SQL,HTML y CSS, teoría y práctica.
 
 [![Ver Web](https://img.shields.io/badge/Ver%20Web-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://lypaw.github.io/ViMap/)
 
