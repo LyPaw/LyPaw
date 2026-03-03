@@ -208,12 +208,12 @@ centrada en lenguajes como Java,SQL,HTML y CSS, teoría y práctica.
 
 
 ## 🏆 GitHub Trophies
-![50 Commits](https://img.shields.io/badge/50%20Commits-🏆-brightgreen)
-![150 Commits](https://img.shields.io/badge/150%20Commits-🏆-brightgreen)
 ![50 Contributions](https://img.shields.io/badge/50%20Contributions-🏆-blue)
 ![150 Contributions](https://img.shields.io/badge/150%20Contributions-🏆-blue)
 ![200 Contributions](https://img.shields.io/badge/200%20Contributions-🏆-blue)
 ![300 Contributions](https://img.shields.io/badge/300%20Contributions-🏆-blue)
+![400 Contributions](https://img.shields.io/badge/400%20Contributions-🏆-blue)
+![500 Contributions](https://img.shields.io/badge/500%20Contributions-🏆-blue)
 
 
 
