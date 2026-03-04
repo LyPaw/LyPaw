@@ -219,9 +219,7 @@ centrada en lenguajes como Java,SQL,HTML y CSS, teoría y práctica.
 
 ---
 
-
 ## 📜 Certificados
-
 | Certificado | Emisor | Fecha | Verificar |
 |---|---|---|---|
 | Networking Essentials | Cisco Networking Academy | Sep 2024 | [🔗 Ver certificado](docs/certificates/cisco-networking-essentials.png) |
@@ -235,6 +233,7 @@ centrada en lenguajes como Java,SQL,HTML y CSS, teoría y práctica.
 | Onboarding de Becas OpenWebinars | OpenWebinars | May 2025 | [🔗 Ver certificado](https://openwebinars.net/cert/I1SV) |
 | Onboarding en Ciberseguridad | OpenWebinars | May 2025 | [🔗 Ver certificado](https://openwebinars.net/cert/biHN) |
 | WordPress: Construcción de sitios web | OpenWebinars | Jun 2025 | [🔗 Ver certificado](https://openwebinars.net/cert/PnkJ) |
+| BD Relacionales con MySQL | TodoCode Academy | Mar 2026 | [🔗 Ver certificado](https://todocodeacademy.com/certificate/bd-relacionales-con-mysql-pqy/) |
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
