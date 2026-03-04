@@ -219,11 +219,22 @@ centrada en lenguajes como Java,SQL,HTML y CSS, teoría y práctica.
 
 ---
 
+
 ## 📜 Certificados
 
 | Certificado | Emisor | Fecha | Verificar |
 |---|---|---|---|
 | Networking Essentials | Cisco Networking Academy | Sep 2024 | [🔗 Ver certificado](docs/certificates/cisco-networking-essentials.png) |
+| Configuración de un servicio SSH en Linux | OpenWebinars | Jun 2025 | [🔗 Ver certificado](https://openwebinars.net/cert/9SzW) |
+| Curso de Desarrollo Seguro | OpenWebinars | Jun 2025 | [🔗 Ver certificado](https://openwebinars.net/cert/LPnj) |
+| Fundamentos de Redes: TCP/IP | OpenWebinars | Jun 2025 | [🔗 Ver certificado](https://openwebinars.net/cert/iXO1) |
+| Introducción a la Monitorización de Seguridad | OpenWebinars | Jun 2025 | [🔗 Ver certificado](https://openwebinars.net/cert/OnFY) |
+| Dominando ChatGPT con la API de OpenAI | OpenWebinars | Jun 2025 | [🔗 Ver certificado](https://openwebinars.net/cert/sfNw) |
+| Fundamentos de la Inteligencia Artificial | OpenWebinars | Jun 2025 | [🔗 Ver certificado](https://openwebinars.net/cert/W6rE) |
+| Fundamentos Generales: Orquestación y Automatización IT | OpenWebinars | Jun 2025 | [🔗 Ver certificado](https://openwebinars.net/cert/60qw) |
+| Onboarding de Becas OpenWebinars | OpenWebinars | May 2025 | [🔗 Ver certificado](https://openwebinars.net/cert/I1SV) |
+| Onboarding en Ciberseguridad | OpenWebinars | May 2025 | [🔗 Ver certificado](https://openwebinars.net/cert/biHN) |
+| WordPress: Construcción de sitios web | OpenWebinars | Jun 2025 | [🔗 Ver certificado](https://openwebinars.net/cert/PnkJ) |
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
