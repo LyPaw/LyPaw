@@ -223,7 +223,7 @@ centrada en lenguajes como Java,SQL,HTML y CSS, teoría y práctica.
 
 | Certificado | Emisor | Fecha | Verificar |
 |---|---|---|---|
-| Networking Essentials | Cisco Networking Academy | Sep 2024 | [🔗 Ver certificado](https://raw.githubusercontent.com/Lypaw/Lypaw/main/docs/certificates/cisco-networking-essentials.pdf) |
+| Networking Essentials | Cisco Networking Academy | Sep 2024 | [🔗 Ver certificado](docs/certificates/cisco-networking-essentials.png) |
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
