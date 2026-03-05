@@ -230,7 +230,6 @@ centrada en lenguajes como Java,SQL,HTML y CSS, teoría y práctica.
 | Dominando ChatGPT con la API de OpenAI | OpenWebinars | Jun 2025 | [🔗 Ver certificado](https://openwebinars.net/cert/sfNw) |
 | Fundamentos de la Inteligencia Artificial | OpenWebinars | Jun 2025 | [🔗 Ver certificado](https://openwebinars.net/cert/W6rE) |
 | Fundamentos Generales: Orquestación y Automatización IT | OpenWebinars | Jun 2025 | [🔗 Ver certificado](https://openwebinars.net/cert/60qw) |
-| Onboarding de Becas OpenWebinars | OpenWebinars | May 2025 | [🔗 Ver certificado](https://openwebinars.net/cert/I1SV) |
 | Onboarding en Ciberseguridad | OpenWebinars | May 2025 | [🔗 Ver certificado](https://openwebinars.net/cert/biHN) |
 | WordPress: Construcción de sitios web | OpenWebinars | Jun 2025 | [🔗 Ver certificado](https://openwebinars.net/cert/PnkJ) |
 | BD Relacionales con MySQL | TodoCode Academy | Mar 2026 | [🔗 Ver certificado](https://todocodeacademy.com/certificate/bd-relacionales-con-mysql-pqy/) |
