@@ -219,8 +219,8 @@ centrada en lenguajes como Java,SQL,HTML y CSS, teoría y práctica.
 
 ---
 
-## 📜 Certificados
-| Certificado | Emisor | Fecha | Verificar |
+## 📜 Cursos
+| Certificado | Emisor | Fecha | Diploma |
 |---|---|---|---|
 | Networking Essentials | Cisco Networking Academy | Sep 2024 | [🔗 Ver certificado](docs/certificates/cisco-networking-essentials.png) |
 | Configuración de un servicio SSH en Linux | OpenWebinars | Jun 2025 | [🔗 Ver certificado](https://openwebinars.net/cert/9SzW) |
