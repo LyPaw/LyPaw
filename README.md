@@ -138,7 +138,7 @@ Sistemas numéricos históricos, conversiones, matrices, estadística y más. Si
 <h3>Umbra</h3>
 <br>
 <a href="https://lypaw.github.io/Umbra/">
-  <img src="https://raw.githubusercontent.com/LyPaw/Umbra/main/logo.png" width="200" alt="Umbra"/>
+  <img src="https://raw.githubusercontent.com/LyPaw/Umbra/main/assets/logo.svg" width="200" alt="Umbra"/>
 </a>
 <br><br>
 
