@@ -67,17 +67,13 @@
 <table width="100%" align="center" cellpadding="0" cellspacing="0">
 <tr>
   <td width="50%" align="center" valign="top">
-
 <br>
 
 ### Robot C++
 <br>
-
-
 <a href="https://github.com/CodeDiegoF/Juego_Robot">
   <img src="https://raw.githubusercontent.com/CodeDiegoF/Juego_Robot/main/robotMatriz/robot (2).png" width="200" alt="Robot C++"/>
 </a>
-
 <br>
 <br>
 
@@ -88,59 +84,62 @@
 Un robot que recorre un mapa mediante estructuras de datos y lógica de movimiento.
 
 [![Ver Repositorio](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeDiegoF/Juego_Robot)
-
 <br>
-
   </td>
   <td width="50%" align="center" valign="top">
-
 <br>
 
 ### ViMap
-
 <a href="https://lypaw.github.io/ViMap/" target="_blank">
   <img src="https://raw.githubusercontent.com/LyPaw/Mapa_Visual_Qwen/main/Logo/logo.png" width="200" alt="ViMap"/>
 </a>
-
 <br>
 
 ![Status](https://img.shields.io/badge/Estado-En%20Proceso-orange?style=for-the-badge&logo=github)
 ![Web](https://img.shields.io/badge/Web-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white)
 
-**Web de Estudio**
-centrada en lenguajes como Java,SQL,HTML y CSS, teoría y práctica.
+**Web de Estudio**  
+centrada en lenguajes como Java, SQL, HTML y CSS, teoría y práctica.
 
 [![Ver Web](https://img.shields.io/badge/Ver%20Web-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://lypaw.github.io/ViMap/)
-
 <br>
-
   </td>
 </tr>
 <tr>
   <td width="50%" align="center" valign="top">
-      <br>
+<br>
 
 ### PomeBall
 <br>
-
-
 <a href="https://github.com/LyPaw/PokeRealm">
   <img src="https://raw.githubusercontent.com/LyPaw/PokeRealm/c13c51cd3aeaf14532de870d9f5d73f719275566/docs/spriteV/pokebola.png" width="200" alt="PomeBall"/>
 </a>
-
 <br>
 <br>
 
 ![Status](https://img.shields.io/badge/Estado-En%20Proceso-orange?style=for-the-badge&logo=github)
 
-
 [![Ver Repositorio](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LyPaw/PomeBall)
-
 <br>
-
   </td>
   <td width="50%" align="center" valign="top">
+<br>
 
+### Symmetry OS
+<br>
+<a href="https://lypaw.github.io/Symmetry-OS/">
+  <img src="https://raw.githubusercontent.com/LyPaw/Symmetry-OS/main/favicon.svg" width="200" alt="Symmetry OS"/>
+</a>
+<br>
+<br>
+
+![Status](https://img.shields.io/badge/Estado-Completado-bb86fc?style=for-the-badge&logo=github)
+![Web](https://img.shields.io/badge/Web-bb86fc?style=for-the-badge&logo=google-chrome&logoColor=black)
+
+**Calculadora universal de precisión.**  
+Sistemas numéricos históricos, conversiones, matrices, estadística y más. Sin dependencias.
+
+[![Ver Web](https://img.shields.io/badge/Ver%20Web-bb86fc?style=for-the-badge&logo=vercel&logoColor=black)](https://lypaw.github.io/Symmetry-OS/)
 <br>
   </td>
 </tr>
