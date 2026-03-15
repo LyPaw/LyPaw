@@ -63,14 +63,12 @@
 <tr>
   <td width="50%" align="center" valign="top">
 <br>
-
-### Robot C++
+<h3>Robot C++</h3>
 <br>
 <a href="https://github.com/CodeDiegoF/Juego_Robot">
   <img src="https://raw.githubusercontent.com/CodeDiegoF/Juego_Robot/main/robotMatriz/robot (2).png" width="200" alt="Robot C++"/>
 </a>
-<br>
-<br>
+<br><br>
 
 ![Status](https://img.shields.io/badge/Estado-En%20Proceso-orange?style=for-the-badge&logo=github)
 ![Language](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -83,12 +81,12 @@ Un robot que recorre un mapa mediante estructuras de datos y lógica de movimien
   </td>
   <td width="50%" align="center" valign="top">
 <br>
-
-### ViMap
+<h3>ViMap</h3>
+<br>
 <a href="https://lypaw.github.io/ViMap/" target="_blank">
   <img src="https://raw.githubusercontent.com/LyPaw/Mapa_Visual_Qwen/main/Logo/logo.png" width="200" alt="ViMap"/>
 </a>
-<br>
+<br><br>
 
 ![Status](https://img.shields.io/badge/Estado-En%20Proceso-orange?style=for-the-badge&logo=github)
 ![Web](https://img.shields.io/badge/Web-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white)
@@ -103,14 +101,12 @@ centrada en lenguajes como Java, SQL, HTML y CSS, teoría y práctica.
 <tr>
   <td width="50%" align="center" valign="top">
 <br>
-
-### PomeBall
+<h3>PomeBall</h3>
 <br>
 <a href="https://github.com/LyPaw/PokeRealm">
   <img src="https://raw.githubusercontent.com/LyPaw/PokeRealm/c13c51cd3aeaf14532de870d9f5d73f719275566/docs/spriteV/pokebola.png" width="200" alt="PomeBall"/>
 </a>
-<br>
-<br>
+<br><br>
 
 ![Status](https://img.shields.io/badge/Estado-En%20Proceso-orange?style=for-the-badge&logo=github)
 
@@ -119,14 +115,12 @@ centrada en lenguajes como Java, SQL, HTML y CSS, teoría y práctica.
   </td>
   <td width="50%" align="center" valign="top">
 <br>
-
-### Symmetry OS
+<h3>Symmetry OS</h3>
 <br>
 <a href="https://lypaw.github.io/Symmetry-OS/">
   <img src="https://raw.githubusercontent.com/LyPaw/Symmetry-OS/main/favicon.svg" width="200" alt="Symmetry OS"/>
 </a>
-<br>
-<br>
+<br><br>
 
 ![Status](https://img.shields.io/badge/Estado-Completado-bb86fc?style=for-the-badge&logo=github)
 ![Web](https://img.shields.io/badge/Web-bb86fc?style=for-the-badge&logo=google-chrome&logoColor=black)
@@ -136,6 +130,28 @@ Sistemas numéricos históricos, conversiones, matrices, estadística y más. Si
 
 [![Ver Web](https://img.shields.io/badge/Ver%20Web-bb86fc?style=for-the-badge&logo=vercel&logoColor=black)](https://lypaw.github.io/Symmetry-OS/)
 <br>
+  </td>
+</tr>
+<tr>
+  <td width="50%" align="center" valign="top">
+<br>
+<h3>Umbra</h3>
+<br>
+<a href="https://lypaw.github.io/Umbra/">
+  <img src="https://raw.githubusercontent.com/LyPaw/Umbra/main/logo.png" width="200" alt="Umbra"/>
+</a>
+<br><br>
+
+![Status](https://img.shields.io/badge/Estado-Completado-00ff41?style=for-the-badge&logo=github)
+![Web](https://img.shields.io/badge/Web-00ff41?style=for-the-badge&logo=google-chrome&logoColor=black)
+
+**Decodificador universal de criptografía.**  
+32+ algoritmos, fuerza bruta total, análisis OCR de imágenes. Sin dependencias, 100% cliente.
+
+[![Ver Web](https://img.shields.io/badge/Ver%20Web-00ff41?style=for-the-badge&logo=vercel&logoColor=black)](https://lypaw.github.io/Umbra/)
+<br>
+  </td>
+  <td width="50%" align="center" valign="top">
   </td>
 </tr>
 </table>
