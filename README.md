@@ -104,7 +104,7 @@ centrada en lenguajes como Java, SQL, HTML y CSS, teoría y práctica.
 <h3>PomeBall</h3>
 <br>
 <a href="https://lypaw.github.io/PomeBall/">
-  <img src="https://github.com/LyPaw/PomeBall/blob/76aed9a771d3f3a5f90e0ccbcc6b5a802718df9e/docs/spriteV/pokebola.png" width="200" alt="PomeBall"/>
+  <img src="https://github.com/LyPaw/PomeBall/blob/d7c3cabc6f0d3e7741c9a06fc304c02fd2306a40/docs/spriteV/pokebola.png" width="200" alt="PomeBall"/>
 </a>
 <br><br>
 
