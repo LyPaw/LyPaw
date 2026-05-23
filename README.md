@@ -79,7 +79,7 @@
 <br>
 <h3>MiPortfolio</h3>
 <br>
-<a href="https://github.com/LyPaw/MiPortfolio">
+<a href="https://lypaw.github.io/MiPortfolio/">
   <img src="https://raw.githubusercontent.com/LyPaw/MiPortfolio/50fa81299b141fae19c6e67b70e5afffeabaf472/img/favicon.svg" width="170" alt="MiPortfolio"/>
 </a>
 <br><br>
