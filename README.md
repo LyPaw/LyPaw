@@ -82,12 +82,13 @@
 <a href="https://lypaw.github.io/MiPortfolio/">
   <img src="https://raw.githubusercontent.com/LyPaw/MiPortfolio/50fa81299b141fae19c6e67b70e5afffeabaf472/img/favicon.svg" width="170" alt="MiPortfolio"/>
 </a>
-<br><br>
+<br><br><br><br>
 
 ![Status](https://img.shields.io/badge/Estado-En%20Proceso-orange?style=for-the-badge&logo=github)
 ![Web](https://img.shields.io/badge/Web-F97316?style=for-the-badge&logo=google-chrome&logoColor=white)
 
 **Portfolio personal** interactivo con certificaciones, proyectos y diseño responsive. Hecho con HTML, CSS y JavaScript vanilla.
+<br><br>
 [![Ver Web](https://img.shields.io/badge/Ver%20Web-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://lypaw.github.io/MiPortfolio/)
 <br>
   </td>
