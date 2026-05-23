@@ -115,44 +115,6 @@ centrada en lenguajes como Java, SQL, HTML y CSS, teoría y práctica.
   </td>
   <td width="50%" align="center" valign="top">
 <br>
-<h3>Symmetry OS</h3>
-<br>
-<a href="https://lypaw.github.io/Symmetry-OS/">
-  <img src="https://raw.githubusercontent.com/LyPaw/Symmetry-OS/main/favicon.svg" width="200" alt="Symmetry OS"/>
-</a>
-<br><br>
-
-![Status](https://img.shields.io/badge/Estado-Completado-bb86fc?style=for-the-badge&logo=github)
-![Web](https://img.shields.io/badge/Web-bb86fc?style=for-the-badge&logo=google-chrome&logoColor=black)
-
-**Calculadora universal de precisión.**  
-Sistemas numéricos históricos, conversiones, matrices, estadística y más. Sin dependencias.
-
-[![Ver Web](https://img.shields.io/badge/Ver%20Web-bb86fc?style=for-the-badge&logo=vercel&logoColor=black)](https://lypaw.github.io/Symmetry-OS/)
-<br>
-  </td>
-</tr>
-<tr>
-  <td width="50%" align="center" valign="top">
-<br>
-<h3>Umbra</h3>
-<br>
-<a href="https://lypaw.github.io/Umbra/">
-  <img src="https://raw.githubusercontent.com/LyPaw/Umbra/main/assets/logo.svg" width="200" alt="Umbra"/>
-</a>
-<br><br>
-
-![Status](https://img.shields.io/badge/Estado-Completado-00ff41?style=for-the-badge&logo=github)
-![Web](https://img.shields.io/badge/Web-00ff41?style=for-the-badge&logo=google-chrome&logoColor=black)
-
-**Decodificador universal de criptografía.**  
-32+ algoritmos, fuerza bruta total, análisis OCR de imágenes. Sin dependencias, 100% cliente.
-
-[![Ver Web](https://img.shields.io/badge/Ver%20Web-00ff41?style=for-the-badge&logo=vercel&logoColor=black)](https://lypaw.github.io/Umbra/)
-<br>
-  </td>
-  <td width="50%" align="center" valign="top">
-<br>
 <h3>Orenji</h3>
 <br>
 <a href="https://orenji-frontend.onrender.com">
