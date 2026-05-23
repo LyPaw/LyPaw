@@ -55,7 +55,21 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manuel-fuentes-cruz-bb2429320) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:githubmfcruzzz@gmail.com) 
 
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Claude AI](https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Qwen](https://img.shields.io/badge/Qwen-515BD4?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+
+### 🚀 Frameworks & Desarrollo Web
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### ☕ Lenguajes & Tecnologías de Escritorio
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🗄️ Bases de Datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234aa356.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+### 🛠️ Herramientas, Control de Versiones & Diseño
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+
+### 🧠 Cloud e Inteligencia Artificial
+![OpenCode](https://img.shields.io/badge/OpenCode-3A3A3A?style=for-the-badge&logo=opensourceinitiative&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Claude AI](https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![Qwen](https://img.shields.io/badge/Qwen-515BD4?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
 
 # Proyect
 
@@ -63,20 +77,18 @@
 <tr>
   <td width="50%" align="center" valign="top">
 <br>
-<h3>Robot C++</h3>
+<h3>MiPortfolio</h3>
 <br>
-<a href="https://github.com/CodeDiegoF/Juego_Robot">
-  <img src="https://raw.githubusercontent.com/CodeDiegoF/Juego_Robot/main/robotMatriz/robot%20(2).png" width="200" alt="Robot C++"/>
+<a href="https://github.com/LyPaw/MiPortfolio">
+  <img src="https://raw.githubusercontent.com/LyPaw/MiPortfolio/50fa81299b141fae19c6e67b70e5afffeabaf472/img/favicon.svg" width="170" alt="MiPortfolio"/>
 </a>
 <br><br>
 
 ![Status](https://img.shields.io/badge/Estado-En%20Proceso-orange?style=for-the-badge&logo=github)
-![Language](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Web](https://img.shields.io/badge/Web-F97316?style=for-the-badge&logo=google-chrome&logoColor=white)
 
-**Juego desarrollado en C++ con navegación matricial.**  
-Un robot que recorre un mapa mediante estructuras de datos y lógica de movimiento.
-
-[![Ver Repositorio](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeDiegoF/Juego_Robot)
+**Portfolio personal** interactivo con certificaciones, proyectos y diseño responsive. Hecho con HTML, CSS y JavaScript vanilla.
+[![Ver Repositorio](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LyPaw/MiPortfolio)
 <br>
   </td>
   <td width="50%" align="center" valign="top">
@@ -84,15 +96,14 @@ Un robot que recorre un mapa mediante estructuras de datos y lógica de movimien
 <h3>ViMap</h3>
 <br>
 <a href="https://lypaw.github.io/ViMap/" target="_blank">
-  <img src="https://raw.githubusercontent.com/LyPaw/Mapa_Visual_Qwen/main/Logo/logo.png" width="200" alt="ViMap"/>
+  <img src="https://raw.githubusercontent.com/LyPaw/Mapa_Visual_Qwen/main/Logo/logo.png" width="240" alt="ViMap"/>
 </a>
 <br><br>
 
 ![Status](https://img.shields.io/badge/Estado-En%20Proceso-orange?style=for-the-badge&logo=github)
 ![Web](https://img.shields.io/badge/Web-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white)
 
-**Web de Estudio**  
-centrada en lenguajes como Java, SQL, HTML y CSS, teoría y práctica.
+**Web de Estudio** centrada en lenguajes como Java, SQL, HTML y CSS, teoría y práctica.
 
 [![Ver Web](https://img.shields.io/badge/Ver%20Web-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://lypaw.github.io/ViMap/)
 <br>
@@ -101,18 +112,40 @@ centrada en lenguajes como Java, SQL, HTML y CSS, teoría y práctica.
 <tr>
   <td width="50%" align="center" valign="top">
 <br>
-<h3>PomeBall</h3>
+<h3>EcoClassifier</h3>
 <br>
-<a href="https://lypaw.github.io/PomeBall/">
-  <img src="https://github.com/LyPaw/PomeBall/blob/d7c3cabc6f0d3e7741c9a06fc304c02fd2306a40/docs/spriteV/pokebola.png" width="200" alt="PomeBall"/>
+<a href="https://github.com/LyPaw/EcoClassifier">
+  <img src="https://raw.githubusercontent.com/LyPaw/EcoClassifier/7e34e6b312e324c5f2f975bf29a9863964fc7e6c/asset/logo/logo.png" width="200" alt="EcoClassifier"/>
 </a>
 <br><br>
 
 ![Status](https://img.shields.io/badge/Estado-En%20Proceso-orange?style=for-the-badge&logo=github)
+![Language](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Juego educativo** drag-and-drop de clasificación de residuos desarrollado en JavaFX 24.
+
+[![Ver Repositorio](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LyPaw/EcoClassifier)
+<br>
+  </td>
+  <td width="50%" align="center" valign="top">
+<br>
+<h3>PomeBall</h3>
+<br>
+<a href="https://lypaw.github.io/PomeBall/">
+  <img src="https://github.com/LyPaw/PomeBall/blob/main/docs/spriteV/pokebola.png?raw=true" width="190" alt="PomeBall"/>
+</a>
+<br><br>
+
+![Status](https://img.shields.io/badge/Estado-En%20Proceso-orange?style=for-the-badge&logo=github)
+![Language](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Buscador y PokéDex interactiva.** Aplicación web basada en JavaScript nativo para filtrado, lectura de JSON y mapeo de sprites.
 
 [![Ver Repositorio](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LyPaw/PomeBall)
 <br>
   </td>
+</tr>
+<tr>
   <td width="50%" align="center" valign="top">
 <br>
 <h3>Orenji</h3>
@@ -125,11 +158,27 @@ centrada en lenguajes como Java, SQL, HTML y CSS, teoría y práctica.
 ![Status](https://img.shields.io/badge/Estado-Desplegado-9333EA?style=for-the-badge&logo=render)
 ![Web](https://img.shields.io/badge/Web-9333EA?style=for-the-badge&logo=google-chrome&logoColor=white)
 
-**Descubre películas y series.**  
-Plataforma full-stack con Angular 18, Spring Boot, PostgreSQL y TMDB API. Desplegada en Render.
+**Descubre películas y series.** Plataforma full-stack con Angular 18, Spring Boot, PostgreSQL y TMDB API. Desplegada en Render.
 
 [![Ver Web](https://img.shields.io/badge/Ver%20Web-9333EA?style=for-the-badge&logo=render&logoColor=white)](https://orenji-frontend.onrender.com)
 [![Ver Repositorio](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LyPaw/Orenji)
+<br>
+  </td>
+  <td width="50%" align="center" valign="top">
+<br>
+<h3>Robot C++</h3>
+<br>
+<a href="https://github.com/CodeDiegoF/Juego_Robot">
+  <img src="https://raw.githubusercontent.com/CodeDiegoF/Juego_Robot/main/robotMatriz/robot%20(2).png" width="200" alt="Robot C++"/>
+</a>
+<br><br>
+
+![Status](https://img.shields.io/badge/Estado-En%20Proceso-orange?style=for-the-badge&logo=github)
+![Language](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Juego desarrollado en C++ con navegación matricial.** Un robot que recorre un mapa mediante estructuras de datos y lógica de movimiento.
+
+[![Ver Repositorio](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeDiegoF/Juego_Robot)
 <br>
   </td>
 </tr>
@@ -207,21 +256,5 @@ Plataforma full-stack con Angular 18, Spring Boot, PostgreSQL y TMDB API. Desple
 
 
 ---
-
-## 📜 Cursos
-| Certificado | Emisor | Fecha | Diploma |
-|---|---|---|---|
-| Networking Essentials | Cisco Networking Academy | Sep 2024 | [🔗 Ver certificado](docs/certificates/cisco-networking-essentials.png) |
-| Configuración de un servicio SSH en Linux | OpenWebinars | Jun 2025 | [🔗 Ver certificado](https://openwebinars.net/cert/9SzW) |
-| Curso de Desarrollo Seguro | OpenWebinars | Jun 2025 | [🔗 Ver certificado](https://openwebinars.net/cert/LPnj) |
-| Fundamentos de Redes: TCP/IP | OpenWebinars | Jun 2025 | [🔗 Ver certificado](https://openwebinars.net/cert/iXO1) |
-| Introducción a la Monitorización de Seguridad | OpenWebinars | Jun 2025 | [🔗 Ver certificado](https://openwebinars.net/cert/OnFY) |
-| Dominando ChatGPT con la API de OpenAI | OpenWebinars | Jun 2025 | [🔗 Ver certificado](https://openwebinars.net/cert/sfNw) |
-| Fundamentos de la Inteligencia Artificial | OpenWebinars | Jun 2025 | [🔗 Ver certificado](https://openwebinars.net/cert/W6rE) |
-| Fundamentos Generales: Orquestación y Automatización IT | OpenWebinars | Jun 2025 | [🔗 Ver certificado](https://openwebinars.net/cert/60qw) |
-| Onboarding en Ciberseguridad | OpenWebinars | May 2025 | [🔗 Ver certificado](https://openwebinars.net/cert/biHN) |
-| WordPress: Construcción de sitios web | OpenWebinars | Jun 2025 | [🔗 Ver certificado](https://openwebinars.net/cert/PnkJ) |
-| BD Relacionales con MySQL | TodoCode Academy | Mar 2026 | [🔗 Ver certificado](https://todocodeacademy.com/certificate/bd-relacionales-con-mysql-pqy/) |
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
