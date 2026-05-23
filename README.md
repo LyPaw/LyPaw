@@ -88,7 +88,7 @@
 ![Web](https://img.shields.io/badge/Web-F97316?style=for-the-badge&logo=google-chrome&logoColor=white)
 
 **Portfolio personal** interactivo con certificaciones, proyectos y diseño responsive. Hecho con HTML, CSS y JavaScript vanilla.
-[![Ver Repositorio](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LyPaw/MiPortfolio)
+[![Ver Web](https://img.shields.io/badge/Ver%20Web-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://lypaw.github.io/MiPortfolio/)
 <br>
   </td>
   <td width="50%" align="center" valign="top">
