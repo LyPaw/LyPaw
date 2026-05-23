@@ -151,7 +151,7 @@
 <br>
 <h3>BlackJack21</h3>
 <br>
-<a href="https://lypaw.github.io/BlackJack21">
+<a href="https://github.com/LyPaw/BlackJack21">
   <img src="https://raw.githubusercontent.com/LyPaw/BlackJack21/1cc16d5c3b7059a86961da434c08a112f41fe88e/src/main/resources/logo/logo.png" width="170" alt="BlackJack21"/>
 </a>
 <br><br>
