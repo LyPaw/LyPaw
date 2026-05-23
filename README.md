@@ -159,7 +159,7 @@
 ![Status](https://img.shields.io/badge/Estado-Completado-brightgreen?style=for-the-badge&logo=github)
 ![Language](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-Un juego basico de BlackJack hecho en JavaFX # Proyect
+Un juego basico de BlackJack hecho en JavaFX
 <br><br>
 [![Ver Repositorio](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LyPaw/BlackJack21)
 <br>
