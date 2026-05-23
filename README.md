@@ -84,7 +84,7 @@
 </a>
 <br><br><br><br>
 
-![Status](https://img.shields.io/badge/Estado-En%20Proceso-orange?style=for-the-badge&logo=github)
+![Status](https://img.shields.io/badge/Estado-Desplegado-brightgreen?style=for-the-badge&logo=github)
 ![Web](https://img.shields.io/badge/Web-F97316?style=for-the-badge&logo=google-chrome&logoColor=white)
 
 **Portfolio personal** interactivo con certificaciones, proyectos y diseño responsive. Hecho con HTML, CSS y JavaScript vanilla.
@@ -101,7 +101,7 @@
 </a>
 <br><br>
 
-![Status](https://img.shields.io/badge/Estado-En%20Proceso-orange?style=for-the-badge&logo=github)
+![Status](https://img.shields.io/badge/Estado-Desplegado-brightgreen?style=for-the-badge&logo=github)
 ![Web](https://img.shields.io/badge/Web-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white)
 
 **Web de Estudio** centrada en lenguajes como Java, SQL, HTML y CSS, teoría y práctica.
@@ -120,7 +120,7 @@
 </a>
 <br><br>
 
-![Status](https://img.shields.io/badge/Estado-En%20Proceso-orange?style=for-the-badge&logo=github)
+![Status](https://img.shields.io/badge/Estado-Completado-brightgreen?style=for-the-badge&logo=github)
 ![Language](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Juego educativo** drag-and-drop de clasificación de residuos desarrollado en JavaFX 24.
@@ -137,12 +137,48 @@
 </a>
 <br><br>
 
-![Status](https://img.shields.io/badge/Estado-En%20Proceso-orange?style=for-the-badge&logo=github)
+![Status](https://img.shields.io/badge/Estado-Desplegado-brightgreen?style=for-the-badge&logo=github)
 ![Language](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Buscador y PokéDex interactiva.** Aplicación web basada en JavaScript nativo para filtrado, lectura de JSON y mapeo de sprites.
 
 [![Ver Repositorio](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LyPaw/PomeBall)
+<br>
+  </td>
+</tr>
+<tr>
+  <td width="50%" align="center" valign="top">
+<br>
+<h3>BlackJack21</h3>
+<br>
+<a href="https://lypaw.github.io/BlackJack21">
+  <img src="https://raw.githubusercontent.com/LyPaw/BlackJack21/1cc16d5c3b7059a86961da434c08a112f41fe88e/src/main/resources/logo/logo.png" width="170" alt="BlackJack21"/>
+</a>
+<br><br>
+
+![Status](https://img.shields.io/badge/Estado-Completado-brightgreen?style=for-the-badge&logo=github)
+![Language](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+Un juego basico de BlackJack hecho en JavaFX # Proyect
+<br><br>
+[![Ver Repositorio](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LyPaw/BlackJack21)
+<br>
+  </td>
+  <td width="50%" align="center" valign="top">
+<br>
+<h3>Robot C++</h3>
+<br>
+<a href="https://github.com/CodeDiegoF/Juego_Robot">
+  <img src="https://raw.githubusercontent.com/CodeDiegoF/Juego_Robot/main/robotMatriz/robot%20(2).png" width="200" alt="Robot C++"/>
+</a>
+<br><br>
+
+![Status](https://img.shields.io/badge/Estado-Completado-brightgreen?style=for-the-badge&logo=github)
+![Language](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Juego desarrollado en C++ con navegación matricial.** Un robot que recorre un mapa mediante estructuras de datos y lógica de movimiento.
+
+[![Ver Repositorio](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeDiegoF/Juego_Robot)
 <br>
   </td>
 </tr>
@@ -156,30 +192,13 @@
 </a>
 <br><br>
 
-![Status](https://img.shields.io/badge/Estado-Desplegado-9333EA?style=for-the-badge&logo=render)
+![Status](https://img.shields.io/badge/Estado-Desplegado-brightgreen?style=for-the-badge&logo=render)
 ![Web](https://img.shields.io/badge/Web-9333EA?style=for-the-badge&logo=google-chrome&logoColor=white)
 
 **Descubre películas y series.** Plataforma full-stack con Angular 18, Spring Boot, PostgreSQL y TMDB API. Desplegada en Render.
-
+<br><br>
 [![Ver Web](https://img.shields.io/badge/Ver%20Web-9333EA?style=for-the-badge&logo=render&logoColor=white)](https://orenji-frontend.onrender.com)
 [![Ver Repositorio](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LyPaw/Orenji)
-<br>
-  </td>
-  <td width="50%" align="center" valign="top">
-<br>
-<h3>Robot C++</h3>
-<br>
-<a href="https://github.com/CodeDiegoF/Juego_Robot">
-  <img src="https://raw.githubusercontent.com/CodeDiegoF/Juego_Robot/main/robotMatriz/robot%20(2).png" width="200" alt="Robot C++"/>
-</a>
-<br><br>
-
-![Status](https://img.shields.io/badge/Estado-En%20Proceso-orange?style=for-the-badge&logo=github)
-![Language](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-**Juego desarrollado en C++ con navegación matricial.** Un robot que recorre un mapa mediante estructuras de datos y lógica de movimiento.
-
-[![Ver Repositorio](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeDiegoF/Juego_Robot)
 <br>
   </td>
 </tr>
