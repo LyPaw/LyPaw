@@ -182,26 +182,6 @@ Un juego basico de BlackJack hecho en JavaFX
 <br>
   </td>
 </tr>
-<tr>
-  <td width="50%" align="center" valign="top">
-<br>
-<h3>Orenji</h3>
-<br>
-<a href="https://orenji-frontend.onrender.com">
-  <img src="https://raw.githubusercontent.com/LyPaw/Orenji/main/logo/logo-removebg.png" width="200" alt="Orenji"/>
-</a>
-<br><br>
-
-![Status](https://img.shields.io/badge/Estado-Desplegado-brightgreen?style=for-the-badge&logo=render)
-![Web](https://img.shields.io/badge/Web-9333EA?style=for-the-badge&logo=google-chrome&logoColor=white)
-
-**Descubre películas y series.** Plataforma full-stack con Angular 18, Spring Boot, PostgreSQL y TMDB API. Desplegada en Render.
-<br><br>
-[![Ver Web](https://img.shields.io/badge/Ver%20Web-9333EA?style=for-the-badge&logo=render&logoColor=white)](https://orenji-frontend.onrender.com)
-[![Ver Repositorio](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LyPaw/Orenji)
-<br>
-  </td>
-</tr>
 </table>
 
 <!-- 
