@@ -233,14 +233,7 @@ Un juego basico de BlackJack hecho en JavaFX
 
 # 📊 GitHub Stats:
 
-<!-- GitHub stats -->
-![](https://github-readme-stats.vercel.app/api?username=LyPaw&theme=dark)
-
-<!-- Streak stats -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=LyPaw&theme=dark)
-
-<!-- Top Languages -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LyPaw&layout=compact&theme=dark)
+![GitHub Stats](https://streak-stats.demolab.com?user=LyPaw&theme=vision-friendly-dark&hide_border=true)
 
 
 
