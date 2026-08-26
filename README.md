@@ -1,4 +1,4 @@
-<!--
+﻿<!--
 <h1 align="center">Hey 👋What's Up?</h1>
 
 ###
@@ -65,7 +65,10 @@
 ### 🗄️ Bases de Datos
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234aa356.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-### 🛠️ Herramientas, Control de Versiones & Diseño
+### 🎨 Diseño
+![Procreate](https://img.shields.io/badge/Procreate-1A1A2E?style=for-the-badge&logo=procreate&logoColor=white)
+
+### 🛠️ Herramientas, Control de Versiones & Infraestructura
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
 ### 🧠 Cloud e Inteligencia Artificial
@@ -182,6 +185,25 @@ Un juego basico de BlackJack hecho en JavaFX
 <br>
   </td>
 </tr>
+<tr>
+  <td width="50%" align="center" valign="top">
+<br>
+<h3>Shake & Love</h3>
+<br>
+<a href="https://lypaw.github.io/Shake-Love/">
+  <img src="https://raw.githubusercontent.com/LyPaw/Shake-Love/main/assets/logo.png" width="170" alt="Shake & Love"/>
+</a>
+<br><br>
+
+![Status](https://img.shields.io/badge/Estado-Desplegado-brightgreen?style=for-the-badge&logo=github)
+![Web](https://img.shields.io/badge/Web-F97316?style=for-the-badge&logo=google-chrome&logoColor=white)
+
+**Web romantica interactiva** con pollito animado, fisica ice-rink y deteccion de sacudida. HTML, CSS y JavaScript puro.
+
+[![Ver Web](https://img.shields.io/badge/Ver%20Web-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://lypaw.github.io/Shake-Love/)
+<br>
+  </td>
+</tr>
 </table>
 
 <!-- 
@@ -251,3 +273,4 @@ Un juego basico de BlackJack hecho en JavaFX
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
