@@ -80,6 +80,24 @@
 <tr>
   <td width="50%" align="center" valign="top">
 <br>
+<h3>FADE IN</h3>
+<br>
+<a href="https://lypaw.github.io/FADE-IN/">
+  <img src="https://raw.githubusercontent.com/LyPaw/FADE-IN/main/images/assets/logo.png" width="170" alt="FADE IN"/>
+</a>
+<br><br>
+
+![Status](https://img.shields.io/badge/Estado-Desplegado-brightgreen?style=for-the-badge&logo=github)
+![Web](https://img.shields.io/badge/Web-F97316?style=for-the-badge&logo=google-chrome&logoColor=white)
+
+**Galería de prompts para arte con IA.** Web tipo museo interactivo con grid masonry, búsqueda, filtros y copia de prompts de un solo clic.
+
+[![Ver Web](https://img.shields.io/badge/Ver%20Web-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://lypaw.github.io/FADE-IN/)
+<br>
+  </td>
+
+  <td width="50%" align="center" valign="top">
+<br>
 <h3>MiPortfolio</h3>
 <br>
 <a href="https://lypaw.github.io/MiPortfolio/">
@@ -95,6 +113,9 @@
 [![Ver Web](https://img.shields.io/badge/Ver%20Web-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://lypaw.github.io/MiPortfolio/)
 <br>
   </td>
+</tr>
+
+<tr>
   <td width="50%" align="center" valign="top">
 <br>
 <h3>ViMap</h3>
@@ -112,8 +133,7 @@
 [![Ver Web](https://img.shields.io/badge/Ver%20Web-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://lypaw.github.io/ViMap/)
 <br>
   </td>
-</tr>
-<tr>
+
   <td width="50%" align="center" valign="top">
 <br>
 <h3>EcoClassifier</h3>
@@ -131,6 +151,9 @@
 [![Ver Repositorio](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LyPaw/EcoClassifier)
 <br>
   </td>
+</tr>
+
+<tr>
   <td width="50%" align="center" valign="top">
 <br>
 <h3>PomeBall</h3>
@@ -148,8 +171,7 @@
 [![Ver Repositorio](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LyPaw/PomeBall)
 <br>
   </td>
-</tr>
-<tr>
+
   <td width="50%" align="center" valign="top">
 <br>
 <h3>BlackJack21</h3>
@@ -167,6 +189,9 @@ Un juego basico de BlackJack hecho en JavaFX
 [![Ver Repositorio](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LyPaw/BlackJack21)
 <br>
   </td>
+</tr>
+
+<tr>
   <td width="50%" align="center" valign="top">
 <br>
 <h3>Robot C++</h3>
@@ -184,8 +209,7 @@ Un juego basico de BlackJack hecho en JavaFX
 [![Ver Repositorio](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeDiegoF/Juego_Robot)
 <br>
   </td>
-</tr>
-<tr>
+
   <td width="50%" align="center" valign="top">
 <br>
 <h3>Shake & Love</h3>
