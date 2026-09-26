@@ -70,7 +70,7 @@
 <h3>ViMap</h3>
 <br>
 <a href="https://lypaw.github.io/ViMap/" target="_blank">
-  <img src="https://raw.githubusercontent.com/LyPaw/Mapa_Visual_Qwen/main/Logo/logo.png" width="240" alt="ViMap"/>
+  <img src="https://raw.githubusercontent.com/LyPaw/ViMap/main/assets/icons/logo.png" width="240" alt="ViMap"/>
 </a>
 <br><br>
 ![Web](https://img.shields.io/badge/Web-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white)
