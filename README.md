@@ -73,7 +73,6 @@
   <img src="https://raw.githubusercontent.com/LyPaw/ViMap/main/assets/icons/logo.png" width="240" alt="ViMap"/>
 </a>
 <br><br>
-![Web](https://img.shields.io/badge/Web-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white)
 
 **Web de Estudio** centrada en lenguajes como Java, SQL, HTML y CSS, teoría y práctica.
  
