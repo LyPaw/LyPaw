@@ -136,26 +136,7 @@
 
   <td width="50%" align="center" valign="top">
 <br>
-<h3>EcoClassifier</h3>
-<br>
-<a href="https://github.com/LyPaw/EcoClassifier">
-  <img src="https://raw.githubusercontent.com/LyPaw/EcoClassifier/7e34e6b312e324c5f2f975bf29a9863964fc7e6c/asset/logo/logo.png" width="200" alt="EcoClassifier"/>
-</a>
-<br><br>
 
-![Status](https://img.shields.io/badge/Estado-Completado-brightgreen?style=for-the-badge&logo=github)
-![Language](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Juego educativo** drag-and-drop de clasificación de residuos desarrollado en JavaFX 24.
-
-[![Ver Repositorio](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LyPaw/EcoClassifier)
-<br>
-  </td>
-</tr>
-
-<tr>
-  <td width="50%" align="center" valign="top">
-<br>
 <h3>PomeBall</h3>
 <br>
 <a href="https://lypaw.github.io/PomeBall/">
@@ -167,66 +148,7 @@
 ![Language](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Buscador y PokéDex interactiva.** Aplicación web basada en JavaScript nativo para filtrado, lectura de JSON y mapeo de sprites.
-
 [![Ver Repositorio](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LyPaw/PomeBall)
-<br>
-  </td>
-
-  <td width="50%" align="center" valign="top">
-<br>
-<h3>BlackJack21</h3>
-<br>
-<a href="https://github.com/LyPaw/BlackJack21">
-  <img src="https://raw.githubusercontent.com/LyPaw/BlackJack21/1cc16d5c3b7059a86961da434c08a112f41fe88e/src/main/resources/logo/logo.png" width="170" alt="BlackJack21"/>
-</a>
-<br><br>
-
-![Status](https://img.shields.io/badge/Estado-Completado-brightgreen?style=for-the-badge&logo=github)
-![Language](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-Un juego basico de BlackJack hecho en JavaFX
-<br><br>
-[![Ver Repositorio](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LyPaw/BlackJack21)
-<br>
-  </td>
-</tr>
-
-<tr>
-  <td width="50%" align="center" valign="top">
-<br>
-<h3>Robot C++</h3>
-<br>
-<a href="https://github.com/CodeDiegoF/Juego_Robot">
-  <img src="https://raw.githubusercontent.com/CodeDiegoF/Juego_Robot/main/robotMatriz/robot%20(2).png" width="200" alt="Robot C++"/>
-</a>
-<br><br>
-
-![Status](https://img.shields.io/badge/Estado-Completado-brightgreen?style=for-the-badge&logo=github)
-![Language](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-**Juego desarrollado en C++ con navegación matricial.** Un robot que recorre un mapa mediante estructuras de datos y lógica de movimiento.
-
-[![Ver Repositorio](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeDiegoF/Juego_Robot)
-<br>
-  </td>
-
-  <td width="50%" align="center" valign="top">
-<br>
-<h3>Shake & Love</h3>
-<br>
-<a href="https://lypaw.github.io/Shake-Love/">
-  <img src="https://raw.githubusercontent.com/LyPaw/Shake-Love/main/assets/logo.png" width="170" alt="Shake & Love"/>
-</a>
-<br><br>
-
-![Status](https://img.shields.io/badge/Estado-Desplegado-brightgreen?style=for-the-badge&logo=github)
-![Web](https://img.shields.io/badge/Web-F97316?style=for-the-badge&logo=google-chrome&logoColor=white)
-
-**Web romantica interactiva** con pollito animado, fisica ice-rink y deteccion de sacudida. HTML, CSS y JavaScript puro.
-
-[![Ver Web](https://img.shields.io/badge/Ver%20Web-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://lypaw.github.io/Shake-Love/)
-<br>
-  </td>
 </tr>
 </table>
 
