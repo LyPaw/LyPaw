@@ -24,78 +24,89 @@
 
 # Proyect
 
-<table width="100%" align="center" cellpadding="0" cellspacing="0">
-<tr>
-  <td width="50%" align="center" valign="top">
-<br>
-<h3>FADE IN</h3>
-<br>
-<a href="https://lypaw.github.io/FADE-IN/">
-  <img src="https://raw.githubusercontent.com/LyPaw/FADE-IN/main/images/assets/logo.png" width="170" alt="FADE IN"/>
-</a>
-<br><br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Estado-Portfolio%20de%20proyectos-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-CSS-JavaScript-F97316?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
 
-![Status](https://img.shields.io/badge/Estado-Desplegado-brightgreen?style=for-the-badge&logo=github)
-![Web](https://img.shields.io/badge/Web-F97316?style=for-the-badge&logo=google-chrome&logoColor=white)
+<p align="center">
+  Colección de proyectos web hechos con enfoque visual, interactivo y responsive.
+</p>
 
-**Galería de prompts para arte con IA.** Web tipo museo interactivo con grid masonry, búsqueda, filtros y copia de prompts de un solo clic.
+---
 
-[![Ver Web](https://img.shields.io/badge/Ver%20Web-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://lypaw.github.io/FADE-IN/)
-<br>
-  </td>
+## Proyectos destacados
 
-  <td width="50%" align="center" valign="top">
-<br>
-<h3>MiPortfolio</h3>
-<br>
-<a href="https://lypaw.github.io/MiPortfolio/">
-  <img src="https://raw.githubusercontent.com/LyPaw/MiPortfolio/50fa81299b141fae19c6e67b70e5afffeabaf472/img/favicon.svg" width="170" alt="MiPortfolio"/>
-</a>
-<br><br><br><br>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://lypaw.github.io/FADE-IN/">
+        <img src="https://raw.githubusercontent.com/LyPaw/FADE-IN/main/images/assets/logo.png" width="140" alt="FADE IN" />
+      </a>
+      <h3>FADE IN</h3>
+      <p>
+        Galería de prompts para arte con IA. Web tipo museo interactivo con grid masonry, búsqueda, filtros y copia de prompts con un clic.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Estado-Desplegado-brightgreen?style=for-the-badge&logo=github" />
+        <img src="https://img.shields.io/badge/Web-F97316?style=for-the-badge&logo=google-chrome&logoColor=white" />
+      </p>
+      <a href="https://lypaw.github.io/FADE-IN/">
+        <img src="https://img.shields.io/badge/Ver%20Web-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://lypaw.github.io/MiPortfolio/">
+        <img src="https://raw.githubusercontent.com/LyPaw/MiPortfolio/50fa81299b141fae19c6e67b70e5afffeabaf472/img/favicon.svg" width="140" alt="MiPortfolio" />
+      </a>
+      <h3>MiPortfolio</h3>
+      <p>
+        Portfolio personal interactivo con certificaciones, proyectos y diseño responsive. Hecho con HTML, CSS y JavaScript vanilla.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Estado-Desplegado-brightgreen?style=for-the-badge&logo=github" />
+        <img src="https://img.shields.io/badge/Web-F97316?style=for-the-badge&logo=google-chrome&logoColor=white" />
+      </p>
+      <a href="https://lypaw.github.io/MiPortfolio/">
+        <img src="https://img.shields.io/badge/Ver%20Web-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+    </td>
+  </tr>
 
-![Status](https://img.shields.io/badge/Estado-Desplegado-brightgreen?style=for-the-badge&logo=github)
-![Web](https://img.shields.io/badge/Web-F97316?style=for-the-badge&logo=google-chrome&logoColor=white)
-
-**Portfolio personal** interactivo con certificaciones, proyectos y diseño responsive. Hecho con HTML, CSS y JavaScript vanilla.
-<br><br>
-[![Ver Web](https://img.shields.io/badge/Ver%20Web-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://lypaw.github.io/MiPortfolio/)
-<br>
-  </td>
-</tr>
-
-<tr>
-  <td width="50%" align="center" valign="top">
-<br>
-
-<h3>ViMap</h3>
-<br>
-<a href="https://lypaw.github.io/ViMap/" target="_blank">
-  <img src="https://raw.githubusercontent.com/LyPaw/ViMap/main/assets/icons/logo.png" width="240" alt="ViMap"/>
-</a>
-<br><br>
-
-**Web de Estudio** centrada en lenguajes como Java, SQL, HTML y CSS, teoría y práctica.
- 
-[![Ver Web](https://img.shields.io/badge/Ver%20Web-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://lypaw.github.io/ViMap/)
-<br>
-  </td>
-
-  <td width="50%" align="center" valign="top">
-<br>
-
-<h3>PomeBall</h3>
-<br>
-<a href="https://lypaw.github.io/PomeBall/">
-  <img src="https://github.com/LyPaw/PomeBall/blob/main/docs/spriteV/pokebola.png?raw=true" width="190" alt="PomeBall"/>
-</a>
-<br><br>
-
-![Status](https://img.shields.io/badge/Estado-Desplegado-brightgreen?style=for-the-badge&logo=github)
-![Language](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Buscador y PokéDex interactiva.** Aplicación web basada en JavaScript nativo para filtrado, lectura de JSON y mapeo de sprites.
-[![Ver Repositorio](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LyPaw/PomeBall)
-</tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://lypaw.github.io/ViMap/" target="_blank">
+        <img src="https://raw.githubusercontent.com/LyPaw/ViMap/main/assets/icons/logo.png" width="180" alt="ViMap" />
+      </a>
+      <h3>ViMap</h3>
+      <p>
+        Web de estudio centrada en lenguajes como Java, SQL, HTML y CSS, combinando teoría y práctica.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Estado-Desplegado-brightgreen?style=for-the-badge&logo=github" />
+        <img src="https://img.shields.io/badge/Aprendizaje-2026-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white" />
+      </p>
+      <a href="https://lypaw.github.io/ViMap/">
+        <img src="https://img.shields.io/badge/Ver%20Web-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://lypaw.github.io/PomeBall/">
+        <img src="https://github.com/LyPaw/PomeBall/blob/main/docs/spriteV/pokebola.png?raw=true" width="150" alt="PomeBall" />
+      </a>
+      <h3>PomeBall</h3>
+      <p>
+        Buscador y PokéDex interactiva basada en JavaScript nativo para filtrado, lectura de JSON y sprites.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Estado-Desplegado-brightgreen?style=for-the-badge&logo=github" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      </p>
+      <a href="https://github.com/LyPaw/PomeBall">
+        <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 <!-- 
