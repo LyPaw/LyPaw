@@ -75,7 +75,7 @@
 
   <tr>
     <td align="center" width="50%">
-      <a href="https://lypaw.github.io/ViMap/" target="_blank">
+      <a href="https://vimap.githubmfcruzzz.workers.dev/" target="_blank">
         <img src="https://raw.githubusercontent.com/LyPaw/ViMap/main/assets/icons/logo.png" width="180" alt="ViMap" />
       </a>
       <h3>ViMap</h3>
