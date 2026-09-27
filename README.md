@@ -80,7 +80,7 @@
       </a>
       <h3>ViMap</h3>
       <p>
-        Web de estudio centrada en lenguajes como Java, SQL, HTML y CSS, combinando teoría y práctica.
+        Tu sistema operativo personal en la nube.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Estado-Desplegado-brightgreen?style=for-the-badge&logo=github" />
