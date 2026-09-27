@@ -86,7 +86,7 @@
         <img src="https://img.shields.io/badge/Estado-Desplegado-brightgreen?style=for-the-badge&logo=github" />
         <img src="https://img.shields.io/badge/Aprendizaje-2026-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white" />
       </p>
-      <a href="https://lypaw.github.io/ViMap/">
+      <a href="https://vimap.githubmfcruzzz.workers.dev/">
         <img src="https://img.shields.io/badge/Ver%20Web-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
     </td>
